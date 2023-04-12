@@ -61,7 +61,7 @@
                     </execution>
                 </executions>
                 <configuration>
-                    <configLocation>src/main/java/taxi/checkstyle.xml</configLocation>
+                    <configLocation>checkstyle.xml</configLocation>
                     <encoding>UTF-8</encoding>
                     <consoleOutput>true</consoleOutput>
                     <failsOnError>true</failsOnError>
